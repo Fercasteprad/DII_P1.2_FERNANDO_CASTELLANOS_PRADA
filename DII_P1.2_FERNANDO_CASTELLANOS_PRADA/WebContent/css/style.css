@@ -1,0 +1,94 @@
+
+
+#mensaje_error {
+	
+	color:red;
+	font-size: 13px;
+	
+}
+
+.centrar {
+	display:flex;
+    justify-content: center;
+}
+
+.barras {
+    width: 350px;
+    margin: 5px;
+    
+}
+
+#boton {
+    width: 200px;
+    height: 35px;
+    margin: 5px;
+    color: white;
+    box-sizing: border-box;
+    background-color:green;
+    border: 2px solid black;
+    border-radius: 8px;
+    place-content: center;
+    align-items:center;
+} 
+
+#separador {
+	width: 20px;
+}
+.lista {
+	display:inline;
+}
+.listaContactos{
+	display:flex;
+    justify-content: center;
+}
+.container {
+	display:flex;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin:15px;
+}
+.item{
+  background-color: white;
+  width:100px;
+  height:50px;
+  margin:10px;
+  text-align:center; 
+  justify-content: center;
+}
+.centrarBloque {
+    display:block;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin:15px;
+    
+}
+
+.centrarenBloque {
+    display:block;
+    justify-content: center;
+
+    
+}
+
+
+.containerFormulario {
+    display:flex;
+    margin:15px;
+}
+
+#divMensaje {
+  background-color: white;
+  display:flex;
+  width:auto;
+  margin:0px;
+  text-align:center; 
+  justify-content: center;
+}
+
+.centrarInformacion {
+  background-color: white;
+  margin:10px;
+  text-align:center; 
+  justify-content: center;
+}
